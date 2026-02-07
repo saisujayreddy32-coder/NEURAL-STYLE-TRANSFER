@@ -27,3 +27,5 @@
 # Matplotlib – Used for visualizing content, style, and output images
 
 # Google Colab – Cloud-based environment used to develop, run, and test the code
+
+<img width="1756" height="607" alt="Image" src="https://github.com/user-attachments/assets/e40f2cd5-f8a1-4fc8-b523-324c09099cc3" />
